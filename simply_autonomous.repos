@@ -1,0 +1,21 @@
+repositories:
+  SimplyAutonomous_stack:
+    type: git
+    url: https://github.com/rohanNkhaire/SimplyAutonomous_stack.git
+    version: main
+  SimplyAutonomous_utilities:
+    type: git
+    url: https://github.com/rohanNkhaire/SimplyAutonomous_utilities.git
+    version: main
+  SimplyAutonomous_msgs:
+    type: git
+    url: https://github.com/rohanNkhaire/SimplyAutonomous_msgs.git
+    version: main
+  sim_launch:
+    type: git
+    url: https://github.com/rohanNkhaire/sim_launch.git
+    version: main
+  sim_vehicle/sample_vehicle_description:
+    type: git
+    url: https://github.com/rohanNkhaire/sample_vehicle_description.git
+    version: main     
