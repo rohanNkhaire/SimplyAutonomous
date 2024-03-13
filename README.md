@@ -24,7 +24,10 @@ mkdir src
 vcs import src < simply_autonomous.repos
 
 # Build the repo
-source /opt/ros/galactic/setup.bash
+source /opt/ros/humble/setup.bash
+
+# Install the dependencies
+rosdep install --from-paths src -y --ignore-src
 colcon build
 ```
 
