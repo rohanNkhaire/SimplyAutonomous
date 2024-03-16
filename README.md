@@ -41,6 +41,6 @@ ros2 launch sim_launch sim.launch.xml
 ```
 
 ## Note ##
-I am working on ROS galactic for this repo. Autoware is a huge inspiration for me to start this project.
+I am working on ROS Humble for this repo. Autoware is a huge inspiration for me to start this project.
 
 Currently, I am using groundtruth localization from Carla simulator to localize the vehicle.
